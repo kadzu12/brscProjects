@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>brskProject</name>
+    </assembly>
+    <members>
+        <member name="M:brskProject.Controllers.UserController.Get(brskProject.Controllers.UserController.LoginRequest)">
+            <summary>
+            Получает информацию о пользователе по логину и паролю.
+            </summary>
+            <remarks>
+            Этот метод позволяет получить информацию о пользователе, если он существует и пароль верный.
+            Для использования этого метода, пользователь должен быть аутентифицирован.
+            </remarks>
+            <response code="200">Возвращает данные пользователя.</response>
+            <response code="404">Если пользователь не найден или пароль неверен.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.SignInWithToken(brskProject.Controllers.UserController.LoginRequest)">
+            <summary>
+            Получает информацию о пользователе по логину и паролю, а также токен.
+            </summary>
+            <param name="loginRequest">Объект с логином и паролем.</param>
+            <remarks>
+            Этот метод позволяет получить информацию о пользователе, если он существует и пароль верный.
+            </remarks>
+            <response code="200">Возвращает данные пользователя и токены.</response>
+            <response code="404">Если пользователь не найден или пароль неверен.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.SignInToken(System.String)">
+            <summary>
+            Получает информацию о пользователе по логину с использованием токена.
+            </summary>
+            <param name="login">Логин пользователя.</param>
+            <remarks>
+            Этот метод позволяет получить информацию о пользователе, если токен существует.
+            Для использования этого метода, пользователь должен быть аутентифицирован.
+            </remarks>
+            <response code="200">Возвращает данные пользователя.</response>
+            <response code="404">Если токен не найден или пользователь не найден.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.Logout(brskProject.DTO.UserDTO)">
+            <summary>
+            Выполняет выход пользователя из системы.
+            </summary>
+            <param name="userDto">Данные пользователя.</param>
+            <remarks>
+            Этот метод позволяет пользователю выйти из системы, удаляя его токены.
+            Для использования этого метода, пользователь должен быть аутентифицирован.
+            </remarks>
+            <response code="200">Возвращает сообщение об успешном выходе.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.GetUserByLogin(System.String)">
+            <summary>
+            Получает информацию о пользователе по логину.
+            </summary>
+            <param name="login">Логин пользователя.</param>
+            <remarks>
+            Этот метод позволяет получить информацию о пользователе, если он существует.
+            Для использования этого метода, пользователь должен быть аутентифицирован.
+            </remarks>
+            <response code="200">Возвращает данные пользователя.</response>
+            <response code="404">Если пользователь не найден.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.GetUserById(System.Int32)">
+            <summary>
+            Получает информацию о пользователе по ID.
+            </summary>
+            <param name="id">ID пользователя.</param>
+            <remarks>
+            Этот метод позволяет получить информацию о пользователе, если он существует.
+            Для использования этого метода, пользователь должен быть аутентифицирован.
+            </remarks>
+            <response code="200">Возвращает данные пользователя.</response>
+            <response code="404">Если пользователь не найден.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.GetUserByIdInTokenFiles">
+            <summary>
+            Получает информацию о пользователе по ID из файлов токенов.
+            </summary>
+            <remarks>
+            Этот метод позволяет получить информацию о пользователе, если токен существует.
+            Для использования этого метода, пользователь должен быть аутентифицирован.
+            </remarks>
+            <response code="200">Возвращает данные пользователя.</response>
+            <response code="404">Если токен не найден или пользователь не найден.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.Register(brskProject.DTO.UserDTO)">
+            <summary>
+            Регистрирует нового пользователя.
+            </summary>
+            <param name="userDto">Данные нового пользователя.</param>
+            <remarks>
+            Этот метод позволяет зарегистрировать нового пользователя.
+            Для использования этого метода, пользователь должен быть аутентифицирован.
+            </remarks>
+            <response code="201">Возвращает данные нового пользователя.</response>
+            <response code="409">Если пользователь с таким логином уже существует.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.GetToken(System.Int32)">
+            <summary>
+            Получает токены для пользователя по логину и паролю.
+            </summary>
+            <param name="login">Логин пользователя.</param>
+            <param name="password">Пароль пользователя.</param>
+            <remarks>
+            Этот метод позволяет получить токены для пользователя, если он существует и пароль верный.
+            </remarks>
+            <response code="200">Возвращает токены пользователя.</response>
+            <response code="404">Если пользователь не найден или пароль неверен.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.GetUser">
+            <summary>
+            Получает список всех пользователей.
+            </summary>
+            <remarks>
+            Этот метод позволяет получить список всех пользователей.
+            Для использования этого метода, пользователь должен быть аутентифицирован.
+            </remarks>
+            <response code="200">Возвращает список пользователей.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.DeleteUser(brskProject.DTO.UserDTO)">
+            <summary>
+            Удаляет пользователя.
+            </summary>
+            <param name="userDTO">Данные пользователя.</param>
+            <remarks>
+            Этот метод позволяет удалить пользователя.
+            Для использования этого метода, пользователь должен иметь роль "Admin".
+            </remarks>
+            <response code="200">Возвращает сообщение об успешном удалении.</response>
+            <response code="404">Если пользователь не найден.</response>
+        </member>
+        <member name="M:brskProject.Controllers.UserController.EditUser(brskProject.DTO.UserDTO)">
+            <summary>
+            Редактирует информацию о пользователе.
+            </summary>
+            <param name="userDTO">Данные пользователя.</param>
+            <remarks>
+            Этот метод позволяет редактировать информацию о пользователе.
+            Для использования этого метода, пользователь должен иметь роль "Admin".
+            </remarks>
+            <response code="200">Возвращает обновленные данные пользователя.</response>
+            <response code="404">Если пользователь не найден.</response>
+            <response code="409">Если логин уже используется другим пользователем.</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brskProject", "brskProject.csproj", "{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brskClient", "..\brskClient\brskClient.csproj", "{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B823FDB-DFC2-4E87-8248-9562685892D5}
+	EndGlobalSection
+EndGlobal

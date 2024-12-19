@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sprus\\source\\repos\\brskProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\apiclass\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\adminpanelwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\editprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\signupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\useruc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\signinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\useruc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\adminpanelwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\additoanalclasses\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:additoanalclasses\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\view\\editprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\additoanalclasses\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:additoanalclasses\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\additoanalclasses\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:additoanalclasses\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\additoanalclasses\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:additoanalclasses\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\brskproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:brskproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\additionalclasses\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\dto\\refreshdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:dto\\refreshdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\dto\\refreshdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\brskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:brskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|c:\\users\\sprus\\source\\repos\\brskproject\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC24EEE1-8024-46E1-8A72-46B4C6FB988C}|brskProject.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837BCD03-34A7-454D-AD9C-7AB8CC1165B7}|..\\brskClient\\brskClient.csproj|c:\\users\\sprus\\source\\repos\\brskclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Api.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\ApiClass\\Api.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\ApiClass\\Api.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\ApiClass\\Api.cs",
+              "RelativeToolTip": "..\\brskClient\\ApiClass\\Api.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAADwv+sAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:15:06.659Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignInWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\SignInWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\SignInWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\SignInWindow.xaml.cs",
+              "RelativeToolTip": "..\\brskClient\\View\\SignInWindow.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:06:37.185Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAtwJoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:45:41.462Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\AdditoanalClasses\\TokenService.cs",
+              "RelativeDocumentMoniker": "AdditoanalClasses\\TokenService.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\AdditoanalClasses\\TokenService.cs",
+              "RelativeToolTip": "AdditoanalClasses\\TokenService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJ8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:20:34.96Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanelWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\AdminPanelWindow.xaml",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\AdminPanelWindow.xaml",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\AdminPanelWindow.xaml",
+              "RelativeToolTip": "..\\brskClient\\View\\AdminPanelWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T10:15:49.844Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\brskClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:44:56.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\brskClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\MainWindow.xaml",
+              "RelativeToolTip": "..\\brskClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T17:44:57.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditProfileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\EditProfileWindow.xaml",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\EditProfileWindow.xaml",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\EditProfileWindow.xaml",
+              "RelativeToolTip": "..\\brskClient\\View\\EditProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T10:10:57.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignInWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\SignInWindow.xaml",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\SignInWindow.xaml",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\SignInWindow.xaml",
+              "RelativeToolTip": "..\\brskClient\\View\\SignInWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T09:22:08.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUpWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\SignUpWindow.xaml",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\SignUpWindow.xaml",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\SignUpWindow.xaml",
+              "RelativeToolTip": "..\\brskClient\\View\\SignUpWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T23:22:04.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUpWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\SignUpWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\SignUpWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\SignUpWindow.xaml.cs",
+              "RelativeToolTip": "..\\brskClient\\View\\SignUpWindow.xaml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswDIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:55:39.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserUC.xaml",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\UserUC.xaml",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\UserUC.xaml",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\UserUC.xaml",
+              "RelativeToolTip": "..\\brskClient\\View\\UserUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T10:20:59.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\UserUC.xaml.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\UserUC.xaml.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\UserUC.xaml.cs",
+              "RelativeToolTip": "..\\brskClient\\View\\UserUC.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:47:53.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminPanelWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\AdminPanelWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\AdminPanelWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\AdminPanelWindow.xaml.cs",
+              "RelativeToolTip": "..\\brskClient\\View\\AdminPanelWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:47:44.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\EditProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\View\\EditProfileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\View\\EditProfileWindow.xaml.cs",
+              "RelativeToolTip": "..\\brskClient\\View\\EditProfileWindow.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:39:09.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwFYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:02:35.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\AdditoanalClasses\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "AdditoanalClasses\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\AdditoanalClasses\\PasswordHasher.cs",
+              "RelativeToolTip": "AdditoanalClasses\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:48:47.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\AdditoanalClasses\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AdditoanalClasses\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\AdditoanalClasses\\LoginRequest.cs",
+              "RelativeToolTip": "AdditoanalClasses\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:07:37.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\AdditoanalClasses\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "AdditoanalClasses\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\AdditoanalClasses\\TokenResponse.cs",
+              "RelativeToolTip": "AdditoanalClasses\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:34:06.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\Models\\User.cs",
+              "RelativeToolTip": "..\\brskClient\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:30:28.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "..\\brskClient\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:21:49.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "brskProject",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\brskProject.csproj",
+              "RelativeDocumentMoniker": "brskProject.csproj",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\brskProject.csproj",
+              "RelativeToolTip": "brskProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T20:05:45.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\AdditionalClasses\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\AdditionalClasses\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\AdditionalClasses\\TokenResponse.cs",
+              "RelativeToolTip": "..\\brskClient\\AdditionalClasses\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:37:47.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:47:07.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RefreshDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\DTO\\RefreshDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RefreshDTO.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\DTO\\RefreshDTO.cs",
+              "RelativeToolTip": "DTO\\RefreshDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:22:08.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RefreshDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\DTO\\RefreshDTO.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\DTO\\RefreshDTO.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\DTO\\RefreshDTO.cs",
+              "RelativeToolTip": "..\\brskClient\\DTO\\RefreshDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:15:54.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAtwNIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-26T17:06:57.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BrskContext.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\BrskContext.cs",
+              "RelativeDocumentMoniker": "BrskContext.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\BrskContext.cs",
+              "RelativeToolTip": "BrskContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:34:14.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:48:20.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\DTO\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\DTO\\RoleDTO.cs",
+              "RelativeToolTip": "DTO\\RoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:48:35.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskProject\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskProject\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:49:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\App.xaml",
+              "RelativeDocumentMoniker": "..\\brskClient\\App.xaml",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\App.xaml",
+              "RelativeToolTip": "..\\brskClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T18:54:50.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\brskClient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\brskClient\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\brskClient\\App.xaml.cs",
+              "RelativeToolTip": "..\\brskClient\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:54:49.557Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
