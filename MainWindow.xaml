@@ -1,0 +1,95 @@
+﻿<Window x:Class="brskClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:brskClient"
+        mc:Ignorable="d"
+        Title="Главное окно" Icon="pack://application:,,,/Assests/brsk-icon.png" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="14*"/>
+        </Grid.RowDefinitions>
+        <Grid Background="#2493C5" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Orientation="Horizontal">
+                <Image Margin="5" Height="25" Width="25" Source="pack://application:,,,/Assests/icons-news.png"/>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="14" Text="Физическим лицам"/>
+                    <Image Height="10" Width="15" Margin="5 12 8 8" Source="pack://application:,,,/Assests/icon-arrow-person.png"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Orientation="Horizontal">
+                <Button x:Name="ExitBut" Click="ExitBut_Click" Background="Transparent" BorderBrush="Transparent" Foreground="White" VerticalAlignment="Center" FontSize="14" Content="Выйти из аккаунта"/>
+                <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
+                    <Image Height="15" Width="15" Margin="0 7 2 7" Source="pack://application:,,,/Assests/icon-ask-question.png"/>
+                    <TextBlock VerticalAlignment="Center" FontSize="14" Foreground="White" Text="Задать вопрос"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 0 10 0">
+                    <Button Height="15" Width="20" Margin="10 7 2 7" BorderBrush="Transparent" Background="Transparent">
+                        <Image  Source="pack://application:,,,/Assests/icon-personal-acc.png"/>
+                    </Button>
+                    <Button x:Name="UserBut" Click="UserBut_Click" Background="Transparent" BorderBrush="Transparent" Foreground="White" VerticalAlignment="Center" FontSize="14" Content="Личный кабинет"/>
+                </StackPanel>
+            </StackPanel>
+
+        </Grid>
+        <ScrollViewer Grid.Row="1">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Height="100" VerticalAlignment="Top" Orientation="Horizontal">
+                    <Image Margin="10" Source="pack://application:,,,/Assests/brsk-logo.png"/>
+                    <StackPanel VerticalAlignment="Bottom" Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="30 0 35 0" FontSize="14" Text="Клиентские офисы"/>
+                            <TextBlock Margin="0 0 35 0" FontSize="14" Text="+7 (347) 276-91-69"/>
+                            <TextBlock Margin="0 0 35 0" FontSize="14" Text="mail@brsc.ru"/>
+                        </StackPanel>
+                        <StackPanel Margin="0 10 0 10" Orientation="Horizontal">
+                            <TextBlock Foreground="#2493C5" Margin="0 0 10 0" FontSize="14" Text="Новости"/>
+                            <TextBlock Foreground="#2493C5" Margin="0 0 10 0" FontSize="14" Text="Помощь"/>
+                            <TextBlock Foreground="#2493C5" Margin="0 0 10 0" FontSize="14" Text="Контакты"/>
+                            <TextBlock Foreground="#2493C5" Margin="0 0 10 0" FontSize="14" Text="Вакансии"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Background="#f2f2f2">
+                    <StackPanel Margin="20" Height="120" Width="120" Background="White">
+                        <Image Margin="25 25 25 15" Source="pack://application:,,,/Assests/choice-cart.png"/>
+                        <TextBlock Foreground="DarkSlateGray" Margin="0 0 0 0"  HorizontalAlignment="Center" Text="Выбрать карту"/>
+                    </StackPanel>
+                    <StackPanel Margin="20" Height="120" Width="120" Background="White">
+                        <Image Margin=" 35 25 35 10" Source="pack://application:,,,/Assests/education.png"/>
+                        <TextBlock  Foreground="DarkSlateGray"  HorizontalAlignment="Center" Text="Выбрать карту"/>
+                    </StackPanel>
+                    <StackPanel Margin="20" Height="120" Width="120" Background="White">
+                        <Image Margin="45 25 45 13" Source="pack://application:,,,/Assests/phone.png"/>
+                        <TextBlock  Foreground="DarkSlateGray"  HorizontalAlignment="Center" Text="Выбрать карту"/>
+                    </StackPanel>
+                    <StackPanel Margin="20" Height="120" Width="120" Background="White">
+                        <Image Margin="33 25 33 17" Source="pack://application:,,,/Assests/backet.png"/>
+                        <TextBlock  Foreground="DarkSlateGray"  HorizontalAlignment="Center" Text="Выбрать карту"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Background="#f2f2f2">
+                    <StackPanel Margin="20" Height="120" Width="120" Background="White">
+                        <Image Margin="32 25 32 10" Source="pack://application:,,,/Assests/stock.png"/>
+                        <TextBlock  Foreground="DarkSlateGray"  HorizontalAlignment="Center" Text="Выбрать карту"/>
+                    </StackPanel>
+                    <StackPanel Margin="20" Height="120" Width="120" Background="White">
+                        <Image Margin="32 25 32 9" Source="pack://application:,,,/Assests/transport.png"/>
+                        <TextBlock Foreground="DarkSlateGray"  HorizontalAlignment="Center" Text="Выбрать карту"/>
+                    </StackPanel>
+                    <StackPanel Margin="20" Height="120" Width="120" Background="White">
+                        <Image Margin="25 25 25 46" Source="pack://application:,,,/Assests/alga-cart.png"/>
+                        <TextBlock  Foreground="DarkSlateGray"  HorizontalAlignment="Center" Text="Выбрать карту"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assests\alga-cart.png" />
+    <None Remove="Assests\backet.png" />
+    <None Remove="Assests\brsk-icon.png" />
+    <None Remove="Assests\brsk-logo.png" />
+    <None Remove="Assests\choice-cart.png" />
+    <None Remove="Assests\education.png" />
+    <None Remove="Assests\icon-arrow-person.png" />
+    <None Remove="Assests\icon-ask-question.png" />
+    <None Remove="Assests\icon-bar-search.png" />
+    <None Remove="Assests\icon-personal-acc.png" />
+    <None Remove="Assests\icons-news.png" />
+    <None Remove="Assests\phone.png" />
+    <None Remove="Assests\stock.png" />
+    <None Remove="Assests\transport.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assests\education.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assests\alga-cart.png" />
+    <Resource Include="Assests\backet.png" />
+    <Resource Include="Assests\brsk-icon.png" />
+    <Resource Include="Assests\brsk-logo.png" />
+    <Resource Include="Assests\choice-cart.png" />
+    <Resource Include="Assests\icon-arrow-person.png" />
+    <Resource Include="Assests\icon-ask-question.png" />
+    <Resource Include="Assests\icon-bar-search.png" />
+    <Resource Include="Assests\icon-personal-acc.png" />
+    <Resource Include="Assests\icons-news.png" />
+    <Resource Include="Assests\phone.png" />
+    <Resource Include="Assests\stock.png" />
+    <Resource Include="Assests\transport.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assests\files\" />
+  </ItemGroup>
+
+</Project>

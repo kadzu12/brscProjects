@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="brskClient.View.UserUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:brskClient.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="150" Background="White">
+    <Grid>
+        <StackPanel Margin="15">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Margin="0 0 0 10 " Orientation="Vertical">
+                    <TextBlock Margin="0 0 0 10" Text="Имя: "/>
+                    <TextBlock Margin="0 0 0 10" Text="Email: "/>
+                    <TextBlock Margin="0 0 0 10" Text="Пароль: "/>
+                    <TextBlock  Text="Роль: "/>
+                </StackPanel>
+                <StackPanel Margin="0 0 0 10" Orientation="Vertical" Width="70">
+                    <TextBox x:Name="NameTb" Text="{Binding Name}" Margin="0 0 0 7"/>
+                    <TextBox x:Name="EmailTb" Text="{Binding Email}" Margin="0 0 0 7"/>
+                    <TextBox x:Name="PassTb" Text="{Binding PasswordHash}" Margin="0 0 0 10"/>
+                    <ComboBox Name="RoleCB"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Left" Width="80" Height="60">
+                <Button x:Name="EditBut" Click="EditBut_Click" BorderBrush="Transparent" Content="Изменить" Background="#2493C5" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0 0 0 0"/>
+                <Button x:Name="DeleteBut" Click="DeleteBut_Click" BorderBrush="Transparent" Content="Удалить" Background="Transparent" Foreground="#2493C5" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0 0 0 0"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>
